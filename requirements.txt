@@ -1,0 +1,11 @@
+certifi==2021.10.8
+charset-normalizer==2.0.9
+greenlet==1.1.2
+idna==3.3
+names==0.3.0
+PyJWT==2.3.0
+pytz==2021.3
+requests==2.26.0
+SQLAlchemy==1.4.29
+twilio==7.4.0
+urllib3==1.26.7
